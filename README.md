@@ -104,8 +104,3 @@ Email: sreedharanjanardhan@gmail.com
 ---
 
 Quit Smoking. Start Living. Track Progress with The Quitify. 💚
-```
-
----
-
-Let me know if you'd like this as a downloadable file or want to add visual elements like app banners, screenshots, or GitHub badges.
