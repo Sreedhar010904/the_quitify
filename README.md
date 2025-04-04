@@ -1,11 +1,11 @@
 ```markdown
-# 🚭 The Quitify
+ 🚭 The Quitify
 
 **The Quitify** is a Flutter-based mobile application designed to help individuals quit smoking through self-awareness and progress tracking. By monitoring cigarette consumption, calculating nicotine intake, estimating life gained, and showing money saved, the app encourages and motivates users on their smoke-free journey.
 
 ---
 
-## 📱 Features
+ 📱 Features
 
 ✨ **User-Centric Dashboard**
 - Track daily cigarette usage
@@ -33,8 +33,7 @@
 |-----------------|---------------------------------|
 | **Flutter**     | UI framework for Android & iOS  |
 | **Dart**        | Programming language for Flutter|
-| **Provider** *(if used)* | State management        |
-| **Shared Preferences** *(if used)* | Local storage for session tracking |
+| **Shared Preferences**| Local storage for session tracking |
 
 ---
 
@@ -67,7 +66,7 @@ f
 
 ---
 
-## 🧰 Installation
+ 🧰 Installation
 
 1. **Clone the Repository**
 ```bash
@@ -87,22 +86,22 @@ flutter run
 
 ---
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+ 👤 Author
 
 - [Sreedhar010904](https://github.com/Sreedhar010904)
-- Email: *Add your email here if you'd like*
+- Email: [sreedharanjanardhan@gmail.com](sreedharanjanardhan@gmail.com)
 
 ---
 
