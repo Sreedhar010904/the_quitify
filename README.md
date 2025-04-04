@@ -1,3 +1,6 @@
+🚀 [Download Quitify](https://www.mediafire.com/file/y2afnsyx7az53jv/the_quitify.apk/file)
+
+
 ```markdown
 🚭 The Quitify
 
