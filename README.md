@@ -1,6 +1,8 @@
 ```markdown
 🚭 The Quitify
 
+🚀 [Download Quitify] (https://www.mediafire.com/file/y2afnsyx7az53jv/the_quitify.apk/file)
+
 The Quitify is a Flutter-based mobile application designed to help individuals quit smoking through self-awareness and progress tracking. By monitoring cigarette consumption, calculating nicotine intake, estimating life gained, and showing money saved, the app encourages and motivates users on their smoke-free journey.
 
 ---
